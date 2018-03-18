@@ -1,0 +1,85 @@
+
+
+
+body {
+  font-family: "Times New Roman", monospace;
+  font-size: 16px;
+  background-image: url("wood.jpeg");
+  background-color: #cccccc;
+
+}
+.jumbotron{
+    color: grey;
+    background-color: black;
+    font-size: 16px;
+    padding: 0.1em 0.5em;
+
+  }
+}
+.container-fluid{
+    padding:0 !important;
+}
+
+
+
+
+h1 {
+  font-size: 10px;
+  text-align: center;
+  padding: 10px;
+}
+p {
+  color: white;
+  text-shadow:
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+caption {
+  font-size: 16px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 70px;
+  color: White;
+  text-align: center;
+  padding: 10px;
+
+}
+nav {
+  font-size: 1.5rem;
+  padding: 1px;
+  text-align: center;
+}
+
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:focus,
+.nav-pills>li.active>a:hover {
+   background-color: black;
+}
+h3 {
+  color: gold;
+}
+table, th, td {
+  color: white;
+  text-shadow:
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+footer {
+  background-image: url("Wood.jpeg");
+   background-color: #cccccc;
+  border-top: 2px solid #000000;
+  color: white;
+  font-size: .95rem;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  bottom: 0px;
+}
